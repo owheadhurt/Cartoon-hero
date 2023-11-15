@@ -180,6 +180,23 @@ p.jobs {
 	display: inline-block;
 }
 
+.scrollbt {
+	max-width: 10%;
+	border: solid;
+	border-width: 1px;
+	margin-left: 25px;
+
+}
+
+.scrollwb {
+	max-width: 10%;
+	border: solid;
+	border-width: 1px;
+	margin-left: 30px;
+
+}
+
+
 #scroll-container {
   overflow: hidden;
 }
